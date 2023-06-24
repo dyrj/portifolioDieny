@@ -1,0 +1,107 @@
+@media screen and (min-width: 0){
+    .formacao-academica{
+        display: flex;
+        flex-wrap:wrap;
+    }
+    
+    .formacao-academica-curso{
+        background-color: #FFFFFF; 
+        margin-right: 2%;
+        margin-left: 2%;
+        margin-bottom: 2%;
+        width: 290px;
+        padding: 30px;
+    }
+    
+    .formacao-academica-curso:hover{
+        background-color: #e0eef3;
+        border: solid 2px rgb(96, 96, 189);
+    }
+    
+    .formacao-academica-curso figure{
+        width: 50px;
+        margin-left: 50px;
+    }
+    
+    .formacao-academica-curso figure img{
+        width: 100px;
+        padding-left: 30px;
+    }
+    
+    .formacao-academica-curso p{
+        font-weight: bold;
+        padding-top: 10px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .formacao-academica{
+        display: flex;
+        flex-wrap:wrap;
+    }
+    
+    .formacao-academica-curso{
+        background-color: #FFFFFF; 
+        margin-right: 2%;
+        margin-left: 2%;
+        margin-bottom: 2%;
+        width: 160px;
+        padding: 30px;
+    }
+    
+    .formacao-academica-curso:hover{
+        background-color: #e0eef3;
+        border: solid 2px rgb(96, 96, 189);
+    }
+    
+    .formacao-academica-curso figure{
+        width: 50px;
+    }
+    
+    .formacao-academica-curso figure img{
+        width: 50px;
+        padding-left: 10px;
+    }
+    
+    .formacao-academica-curso p{
+        font-weight: bold;
+        padding-top: 10px;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .formacao-academica{
+        display: flex;
+        flex-wrap:wrap;
+    }
+    
+    .formacao-academica-curso{
+        background-color: #FFFFFF; 
+        margin-right: 2%;
+        margin-left: 2%;
+        margin-bottom: 2%;
+        width: 200px;
+        padding: 30px;
+    }
+    
+    .formacao-academica-curso:hover{
+        background-color: #e0eef3;
+        border: solid 2px rgb(96, 96, 189);
+    }
+    
+    .formacao-academica-curso figure{
+        width: 50px;
+    }
+    
+    .formacao-academica-curso figure img{
+        width: 100px;
+        padding-left: 30px;
+    }
+    
+    .formacao-academica-curso p{
+        font-weight: bold;
+        padding-top: 10px;
+    }
+}
+
+

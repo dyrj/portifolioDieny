@@ -1,0 +1,13 @@
+#formacao{
+    background-color: #e0eef3;
+    margin-top: 25px;
+    color: #464646;
+}
+
+#formacao h2{
+    font-size: 32px;
+    font-weight: bold; 
+    text-align: center;
+    padding-top: 30px;
+    margin: 30px;
+}

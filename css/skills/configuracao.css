@@ -1,0 +1,116 @@
+@media screen and (min-width: 0){
+
+    .skill-linguagens{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .skill-linguagens-caixa{
+        display:inline;
+        background-color: #FFFFFF;
+        justify-content: space-between;
+        width: 46%;
+        height: 150px;
+        margin-right: 1.5%;
+        margin-left: 1.5%;
+        margin-bottom: 1.5%;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    
+    .skill-linguagens-caixa:hover{
+        background-color: #e0eef3;
+        border: solid 2px rgb(96, 96, 189);
+    }
+    
+    .skill-linguagens-caixa img{
+        margin-left: 70px;
+        margin-top: 30px;
+    }
+    
+    .skill-linguagens-caixa strong{
+        margin-left: 55px;
+        padding-bottom: 100px;
+    }
+    
+    .img-skill{
+        width: 40px;
+    }
+}
+
+@media screen and (min-width: 768px){
+
+    .skill-linguagens{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .skill-linguagens-caixa{
+        display:inline;
+        background-color: #FFFFFF;
+        justify-content: space-between;
+        width: 30%;
+        height: 150px;
+        margin-right: 1.5%;
+        margin-left: 1.5%;
+        margin-bottom: 1.5%;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    
+    .skill-linguagens-caixa:hover{
+        background-color: #e0eef3;
+        border: solid 2px rgb(96, 96, 189);
+    }
+    
+    .skill-linguagens-caixa img{
+        margin-left: 90px;
+        margin-top: 30px;
+    }
+    
+    .skill-linguagens-caixa strong{
+        margin-left: 75px;
+        padding-bottom: 100px;
+    }
+    
+    .img-skill{
+        width: 40px;
+    }
+}
+
+@media screen and (min-width: 992px){
+
+    .skill-linguagens{
+        display: flex;
+    }
+    
+    .skill-linguagens-caixa{
+        display:inline;
+        background-color: #FFFFFF;
+        justify-content: space-between;
+        width: 30%;
+        height: 150px;
+        margin-right: 0.3%;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    
+    .skill-linguagens-caixa:hover{
+        background-color: #e0eef3;
+        border: solid 2px rgb(96, 96, 189);
+    }
+    
+    .skill-linguagens-caixa img{
+        margin-left: 90px;
+        margin-top: 30px;
+    }
+    
+    .skill-linguagens-caixa strong{
+        margin-left: 90px;
+        padding-bottom: 100px;
+    }
+    
+    .img-skill{
+        width: 40px;
+    }
+}

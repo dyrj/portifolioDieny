@@ -1,0 +1,149 @@
+@media screen and (min-width: 0){
+    .apresentacao{
+        margin-top: 50px;
+        color: #464646;
+        margin-left: 10px;
+        margin-right: auto;
+    }
+    .redes-sociais section{
+        margin-right: 25px; 
+    }
+
+    .apresentacao-principal h1{
+        font-size: 52px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    
+    .texto-introducao{
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+    
+    .redes-sociais{
+        display: flex;
+        font-size: 16px;   
+    }
+    
+    
+    .redes-sociais section a{
+        text-decoration: none;
+        display: flex;
+        color: #464646;
+        align-items: center;
+    }
+    
+    .redes-sociais section a p{
+        margin-right: 5px;
+    }
+    
+    .redes-sociais section a img{
+        width: 15px;
+        height: 10px;
+    }
+
+}
+
+@media screen and (min-width: 768px){
+    .apresentacao{        
+        display: flex;
+        flex-direction: row-reverse;
+        margin-top: 50px;
+        color: #464646;
+        margin-left: 20px;
+        margin-right: auto;
+    }
+
+    .redes-sociais section{
+        display: flex;
+        margin-right: 75px; 
+        
+    }   
+
+    .apresentacao-principal h1{
+        font-size: 52px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    
+    .texto-introducao{
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+    
+    .redes-sociais{
+        display: flex;
+        font-size: 16px;   
+    }
+    
+    
+    .redes-sociais section a{
+        text-decoration: none;
+        display: flex;
+        color: #464646;
+        align-items: center;
+    }
+    
+    .redes-sociais section a p{
+        margin-right: 5px;
+    }
+    
+    .redes-sociais section a img{
+        width: 15px;
+        height: 10px;
+    }
+    
+}
+
+@media screen and (min-width: 992px){
+    .apresentacao{
+        flex-direction: row-reverse;
+        display: flex;
+        margin-top: 50px;
+        color: #464646;
+    }    
+
+    .redes-sociais section{
+        display: flex;
+        margin-right: 75px; 
+        
+    }
+
+    .apresentacao-principal h1{
+        font-size: 52px;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    
+    .texto-introducao{
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+    
+    .redes-sociais{
+        display: flex;
+        font-size: 16px;   
+    }
+    
+    
+    .redes-sociais section a{
+        text-decoration: none;
+        display: flex;
+        color: #464646;
+        align-items: center;
+    }
+    
+    .redes-sociais section a p{
+        margin-right: 5px;
+    }
+    
+    .redes-sociais section a img{
+        width: 15px;
+        height: 10px;
+    }
+    
+}
+

@@ -1,0 +1,24 @@
+.menu{
+    display: flex;
+    color: #464646;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.menu ul{
+    display: flex;
+}
+
+.menu ul li{
+    margin-left: 20px;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: #464646;
+    font-size: 16px;
+}
+
+.email{    
+    font-weight: bold;
+}

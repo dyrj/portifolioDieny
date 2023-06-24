@@ -1,0 +1,32 @@
+@media screen and (min-width: 0){
+    .imagem-curriculo img{
+        width: 200px;
+        height: 250px;
+        border-radius: 50%;
+        border: solid 2px rgb(94, 94, 10);
+        margin-left: 75px;
+        margin-top: 0px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .imagem-curriculo img{
+        margin-top: 40px;
+        width: 200px;
+        height: 250px;
+        border-radius: 50%;
+        border: solid 2px rgb(94, 94, 10);
+        margin-left: 0px;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .imagem-curriculo img{
+        width: 200px;
+        height: 250px;
+        border-radius: 50%;
+        border: solid 2px rgb(94, 94, 10);
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+}
