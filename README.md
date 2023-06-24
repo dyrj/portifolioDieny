@@ -1,4 +1,4 @@
-# Curriculo
+# Currículo
 
 - Currículo Online Contendo:
 
