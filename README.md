@@ -27,7 +27,7 @@
 
 Como acessar:
 
-1 - Acesse a página da aplicação <a href="/">clicando aqui</a><br>
+1 - Acesse a página da aplicação <a href="https://dyrj.github.io/portifolioDieny/">clicando aqui</a><br>
 
 Tecnologias Utilizadas:
 
@@ -35,5 +35,4 @@ HTML, CSS e JavaScript
 
 https://www.linkedin.com/in/dieny-soares/
 
-# portifolioDieny
-# portifolioDieny
+# Portifólio Dieny
